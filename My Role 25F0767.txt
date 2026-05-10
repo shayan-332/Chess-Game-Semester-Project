@@ -1,0 +1,7 @@
+My Role: Implemented MAIN function
+
+- Created main.cpp with game loop and turn system
+- Handled user input (e2 e4 format to coordinates)
+- Added move validation and error messages  
+- Implemented check/checkmate detection
+- Integrated board display after each move
