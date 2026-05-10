@@ -15,9 +15,9 @@ A two-player chess game played in console. White moves first (UPPERCASE letters)
 - Composition (board has pieces)
 
 ## Team Members
-| Ali Ammar | 25F-0522 | Classes & OOP Concepts |
-| Subhan Aslam | 25F-0524 | GUI & Board Setup |
-| Shayan Amjad | 25F-0767 | Main function, Testing, GitHub, Report |
+- Ali Ammar | 25F-0522 | Classes & OOP Concepts 
+- Subhan Aslam | 25F-0524 | GUI & Board Setup 
+- Shayan Amjad | 25F-0767 | Main function, Testing, GitHub, Report 
 
 ## File Structure
 - chess.h - Header file with class declarations
