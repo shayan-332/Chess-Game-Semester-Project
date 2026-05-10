@@ -1,0 +1,8 @@
+My Role: Implemented Classes and OOP Concepts
+
+- Created piece base class with virtual functions
+- Implemented derived classes: rook, knight, bishop, queen, king, pawn
+- Used inheritance (all pieces inherit from piece class)
+- Used polymorphism (virtual getpossiblemoves() function)
+- Used encapsulation (private grid in board class)
+- Created chess.h header and chess.cpp implementation files
