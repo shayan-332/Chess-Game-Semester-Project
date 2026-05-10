@@ -1,0 +1,8 @@
+My Role: GUI Setup and Board Display
+
+- Created setupboard() to place pieces at starting positions
+- Implemented showboard() with colored cells (white/black)
+- Added gotoxy() for cursor positioning on console
+- Displayed pieces: White = UPPERCASE, Black = lowercase
+- Integrated my GUI code with main.cpp
+- Merged board setup with main game loop
